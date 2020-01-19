@@ -4,43 +4,47 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Executing data-driven solutions to increase efficiency, accuracy, and utility of internal data processing. 
+Experienced at creating data regression models, deep learning models using predictive data modelling, and 
+analyzing data mining algorithm to deliver insights and implement action-oriented solutions to complex business problem. 
+Highly skilled in machine learning, Computer Vision, data visualization, and creative thinking. </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+<h5> Engineering </h5> 
+<ul class="engineering-list">
+    <li>Scalable Machine learning</li>
+    <li>Deep Learning</li>
+    <li>Statistical learning</li>
+    <li> Computer Vision </li>
+    <li> Natural Language Processing </li> 
+    <li> Distributed Computing (Amazon EC2)</li>
+</ul>
+
+<h5>Programming</h5>
+<ul class="programming-list">
+    <li>Python</li>
+    <li>C++</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Shell</li>
+    <li>SQL</li>
+    <li>CUDA</li>
+</ul>
+
+<h5>Miscellaneous</h5>
+<ul class="miscellaneous-list">
+    <li>Photoshop</li>
+    <li>Illustrator</li>
+    <li>Audition</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">pointer_generator_mode</a></li>
+	<li><a href="https://github.com/">word_segmentation</a></li>
+	<li><a href="https://github.com/">violence-detection</a></li>
+	<li><a href="https://github.com/">Text-classification-tensorflow.layer</a></li>
 </ul>
