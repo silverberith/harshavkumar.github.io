@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/pdf/resume.pdf
 
-url: https://silverberith.github.io
+url: https://harshavkumar.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
