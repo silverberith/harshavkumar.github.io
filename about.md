@@ -30,8 +30,8 @@ layout: page
 </ul></h4>
 
 
-<h5> Ongoing Projects 
+<h4> Ongoing Projects 
 <ul>
     <li> Offline Handwriting Recognition</li>
     <li> Candidate Space Recognition</li>
-</ul></h5>
+</ul></h4>
